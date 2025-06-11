@@ -17,9 +17,14 @@ Add the package via Unity Package Manager:
 
 ## Usage
 
-- Import the Samples via Package Manager → Samples
-- Open the demo scene to test functionality.
-- Use the provided scripts to configure your own banners and rewards.
+- Create your custom rewards by creating scriptableobject of RewardEntry
+- Create your custom GachaRules or Utulise the example rules by creating scriptableobject of the custom/existing rules
+- Create your own GachaBanner  by creating scriptableobject of GachaBanner
+- Utulise the GachaSystem script to get the results
+- Utulise the GenerateResults script to viaulise the results
+
+- See how these system work by Taking the Demo folder and adding it into your Asset Folder
+- In the Demo folder you will find an example scene that you can test the system
 
 ## Dependencies
 
