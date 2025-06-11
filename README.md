@@ -23,8 +23,8 @@ Add the package via Unity Package Manager:
 - Utulise the GachaSystem script to get the results
 - Utulise the GenerateResults script to viaulise the results
 
-- See how these system work by Taking the Demo folder and adding it into your Asset Folder
-- In the Demo folder you will find an example scene that you can test the system
+- See how these system work by Taking the Demo folder and adding it into your Asset Folder in order to access the example Scene
+- New Scriptable Objects are currently needed to be created if you want to test various situations within the example scene, dont forget to swap for the newly created gachaBanner ScriptableObject in the buttons
 
 ## Dependencies
 
