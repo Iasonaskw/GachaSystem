@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f553c5a32dbe2d4dbd5391269d021ec, type: 3}
+  m_Name: GachaBanners
+  m_EditorClassIdentifier: 
+  rewardEntries:
+  - {fileID: 11400000, guid: 7173cd4d701396348a7ca3c85ee1b5fd, type: 2}
+  - {fileID: 11400000, guid: cc64f8629dbc5364da3d52b236c90688, type: 2}
+  - {fileID: 11400000, guid: 065d8e64b4372c64aacf3494561761a3, type: 2}
+  - {fileID: 11400000, guid: 5b5683b7711ec474d95a99066d8f6ac4, type: 2}
+  - {fileID: 11400000, guid: 81f435088acac354d8fe91f1ff475911, type: 2}
+  - {fileID: 11400000, guid: 423d91153c05ce24c932d827929e5849, type: 2}
+  - {fileID: 11400000, guid: b45055785c8ee7f43af818d1e8c0a66d, type: 2}
+  - {fileID: 11400000, guid: 4f070b3435caaf0478d53116a7f3a7d4, type: 2}
+  - {fileID: 11400000, guid: b43f550e15ee46b42a498afdf8fd3de7, type: 2}
+  - {fileID: 11400000, guid: b62235210f0676543b31cccb01c6b0ff, type: 2}
+  rules:
+  - {fileID: 11400000, guid: fc404d4e857c6e348ae69ca725271348, type: 2}
+  - {fileID: 11400000, guid: ed84beeedbb9a7645a69f05389649cd1, type: 2}
+  gachaState:
+    totalPulls: 62
+    pullsSinceHighestRarityReward: 0
+    lastHighestReward: {fileID: 11400000, guid: 7173cd4d701396348a7ca3c85ee1b5fd, type: 2}
+    fiftyFiftyWon: won

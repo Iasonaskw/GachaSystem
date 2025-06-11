@@ -1,0 +1,6 @@
+{
+	"name": "com.get_excited.gachasystem.Editor",
+	"references": [
+		"com.get_excited.gachasystem.Runtime"
+	]
+}

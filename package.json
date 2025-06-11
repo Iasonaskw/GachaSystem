@@ -1,0 +1,25 @@
+{
+  "name": "com.get_excited.gachasystem",
+  "version": "1.0.0",
+  "displayName": "gachaSystem",
+  "description": "This package allows you add a gachaSystem into your game",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "keywords": [
+    "GachaSystem",
+    "Gacha",
+    "PoolSystem"
+  ],
+  "author": {
+    "name": "GetExcited"
+  },
+  "samples": [
+    {
+      "displayName": "Demo",
+      "description": "An example scene showing how to use the gacha system.",
+      "path": "Samples~/Demo"
+    }
+  ]
+}
